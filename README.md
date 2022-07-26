@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @echapmanFromBunnings
-- 👀 I’m interested in integrations across all tooling and team members with the company
+- 👀 I’m interested in integrations across engineering tooling
 - 🌱 I’m currently learning GitHub actions and innersource
-- 💞️ I’m looking to collaborate on nothing at the moment
+- 💞️ I’m looking to collaborate on new and exciting projects
 - 📫 DM me for more information
 
 <!---
