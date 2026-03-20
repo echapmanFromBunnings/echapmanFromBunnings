@@ -38,7 +38,7 @@ I spend my days leading engineering teams and building platforms that help peopl
 
 <p>
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=echapmanFromBunnings&show_icons=true&theme=transparent&hide_border=true&count_private=true" alt="GitHub stats" />
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com?user=echapmanFromBunnings&theme=transparent&hide_border=true" alt="GitHub streak" />
+  <img height="160" src="https://streak-stats.demolab.com?user=echapmanFromBunnings&theme=transparent&hide_border=true" alt="GitHub streak" />
 </p>
 
 ---
